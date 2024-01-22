@@ -1,7 +1,5 @@
-Notebook to create the dataset at 
+# german_court_decisions
 
-    [huggingface.co/datasets/SH108/german-court-decisions](https://huggingface.co/datasets/SH108/german-court-decisions)
+Notebook to create the dataset at the Hugging Face Hub [huggingface.co/datasets/SH108/german-court-decisions](https://huggingface.co/datasets/SH108/german-court-decisions)
 
-give German court decisions downloaded with 
-
-    [github.com/niklaswais/gesp](https://github.com/niklaswais/gesp)https://github.com/niklaswais/gesp
+given German court decisions downloaded with [github.com/niklaswais/gesp](https://github.com/niklaswais/gesp)
